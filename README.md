@@ -19,7 +19,7 @@
 ---
 
 ## 🚧 Requirements
-- A **BadUSB device** (e.g., Flipper Zero or similar).
+- A **Flipper Zero🐬**
 - Target system must have PowerShell enabled.
 
 ---
