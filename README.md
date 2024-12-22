@@ -30,7 +30,7 @@
 2. 🔌 **Deploy**:
    - Connect the Flipper Zero to the target system (with permission).
 3. ✅ **Execute**:
-   - The script runs automatically and saves the collected data to the USB drive. Wait for the process to finish and safely eject the drive.
+   - The script runs automatically and saves the collected data to the Mass Storage img file. Wait for the process to finish and safely eject the drive.
 
 ---
 
