@@ -21,6 +21,8 @@
 ## 🚧 Requirements
 - A **Flipper Zero🐬**
 - Target system must have PowerShell enabled.
+- BEFORE YOU RUN THE SCRIPT ADD A LAYOUT IN LINE 38❗
+- YOU DONT NEED TO CREATE THE IMG FILE AS THE SCRIPT CREATES IT FOR YOU❗
 
 ---
 
