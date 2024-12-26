@@ -3,6 +3,8 @@
 **Windows_Exfil** is a proof-of-concept script for automating data collection and exfiltration via Flipper Zero🐬 configured as a "BadUSB." It demonstrates how to leverage scripting and USB emulation for educational and ethical penetration testing purposes.
 
 > ⚠️ **Disclaimer**: This tool is for **educational purposes only**. Unauthorized use against systems you do not own or have explicit permission to test is illegal. Use responsibly! 🙏
+> SCRIPT WORKS ON en-US KEYBOARD ONLY FOR NOW❗
+> YOU DONT NEED TO CREATE THE IMG FILE AS THE SCRIPT CREATES IT FOR YOU❗
 
 ---
 
@@ -21,7 +23,7 @@
 ## 🚧 Requirements
 - A **Flipper Zero🐬+ Momentum-dev-ef05ee44**
 - Target system must have PowerShell enabled.
-- BEFORE YOU RUN THE SCRIPT ADD A LAYOUT IN LINE 38❗
+- SCRIPT WORKS ON en-US KEYBOARD ONLY FOR NOW❗
 - YOU DONT NEED TO CREATE THE IMG FILE AS THE SCRIPT CREATES IT FOR YOU❗
 
 ---
