@@ -23,8 +23,6 @@
 ## 🚧 Requirements
 - A **Flipper Zero🐬+ Momentum-dev-ef05ee44**
 - Target system must have PowerShell enabled.
-- SCRIPT WORKS ON en-US KEYBOARD ONLY FOR NOW❗
-- YOU DONT NEED TO CREATE THE IMG FILE AS THE SCRIPT CREATES IT FOR YOU❗
 
 ---
 
