@@ -35,7 +35,7 @@ else {
 	usbdisk.createImage(image, size);
 }
 
-badusb.setup({ vid: 0xAAAA, pid: 0xBBBB, mfr_name: "Flipper", prod_name: "Zero", layout_path: "/ext/badusb/assets/layouts/<add layout here>"});
+badusb.setup({ vid: 0xAAAA, pid: 0xBBBB, mfr_name: "Flipper", prod_name: "Zero"});
 print("Waiting for connection");
 while (!badusb.isConnected()) {
     delay(1000);
